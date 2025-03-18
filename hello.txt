@@ -1,4 +1,4 @@
 hello git
 hello wang
 hello si``:wq
-zhen de c
+zhen de c :hot
